@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-30-722694.png" />](mailto:ramyeg26@gmail.com)
-[<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22px" />](www.linkedin.com/in/Raamyy)
+[<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22px" />](https://www.linkedin.com/in/Raamyy)
 [<img align="left" alt="Raamyy | Stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" />](https://stackoverflow.com/users/8142985/raamyy)
 [<img align="left" alt="Raamyy | Behance" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/behance-196-721993.png" />](https://www.behance.net/Ramy2612)
 </br>
