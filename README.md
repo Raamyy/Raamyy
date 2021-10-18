@@ -4,7 +4,6 @@
 - 💼  Working as software engineer [@Gameball](https://www.gameball.co).
 - 🎓  2020 graduate from Software Engineering department at Ain Shams University.
 - 🏫  Worked as teaching assistant at Software Engineering department.
-- 👀  Looking for software engineer job.
 - 📚  Learning more about javascript and python.
 - 👯  Looking to collaborate on more open source projects.
 - 📸  Also a video editor and a graphic designer.
