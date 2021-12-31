@@ -44,6 +44,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raamyy&layout=compact&theme=radical)](https://github.com/Raamyy?tab=repositories)
 
+![](https://komarev.com/ghpvc/?username=raamyy)
+
 <!--
 **Raamyy/Raamyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
