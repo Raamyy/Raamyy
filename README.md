@@ -1,6 +1,6 @@
 ### Hey there, I'm [Raamyy](https://www.raamyy.tech?utm_source=readme&utm_medium=github)! 👋
 
-## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
+## A passionate Egyptian software engineer that loves contributing and creating open source projects.
 - 💼  Working as software engineer [@Gameball](https://www.gameball.co).
 - 🎓  2020 graduate from Software Engineering department at Ain Shams University.
 - 🏫  Worked as teaching assistant at Software Engineering department.
